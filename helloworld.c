@@ -8,3 +8,4 @@ main()
     printf("Nhap b: ");
     scanf("%d", &b);
 }
+//tao moi sua ne
